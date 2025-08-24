@@ -1,3 +1,3 @@
-# 🌐 Live Demo
+#  Live Demo – My Portfolio
 
-👉 [Click here to view the Portfolio](https://MamdipatlaGowtham.github.io/CODSOFT-PORTF-FOLIO/)
+👉 [Check out my Portfolio here](https://mamdipatlagowtham.github.io/CODSOFT-PORT-FOLIO/)
